@@ -1,0 +1,8 @@
+Saved files:
+..\reports\eda\pivot_mean.csv
+..\reports\eda\pivot_median.csv
+..\reports\eda\pivot_count.csv
+..\reports\eda\price_by_location.csv
+..\reports\eda\price_by_type.csv
+..\reports\eda\avg_price_city.csv
+..\reports\eda\vif.csv
